@@ -6,9 +6,20 @@ For all work using **Solvent DP4+** please cite the primary publication:
 
 * To be filled once the paper is accepted. 
 
-## A tool for DP4+, MM-DP4+ and Custom DP4+ probability calculation
-The **DP4+App** is a powerful tool designed to assist researchers in the structure elucidation process by balancing computational cost and predictive capacity using DP4+ factors analysis and automation. It provides valuable insights and streamlines the decision-making process, making it a valuable asset for chemists and researchers working in natural product chemistry and related fields.
+### Description
+>DP4plus-solv is a Python program designed to estimate the sensitivity of structural assignment to the choice of solvent used for acquiring experimental NMR spectra.
 
-This is a comprehensive software was designed to facilitate DP4+ and MM-DP4+ calculations. With its user-friendly graphical interface, you can handle multiple Gaussian calculations and leverage automated data processing for accurate probabilistic analysis. The software also offers the flexibility to perform Custom-DP4+ calculations, enabling parameterization of theory levels as per individual requirements.
 
- <img alt="Show" src="https://github.com/Sarotti-Lab/DP4plus-App/assets/101182775/a459f018-78c8-4e43-b7de-0dd92eb40a48 " width="192" height="237"/>
+### Installation Requirements
+
+**Solvent DP4+** needs python 3.8 or later to work. The module can be installed by console using:
+`pip3 install DP4plus-solv`
+
+>Once installed the python module, the program can be executed by console using: `DP4plus-solv`
+
+>or generate a DP4plus-solv.py shortcut on the desktop, which allows direct execution of the program without the use of a console, using: `DP4plus-solv-exe`
+>
+To verify the correct operation of the software, it is recommended to run the provided example, which can be downloaded by clicking the `Example` button (Figure 2). This will create a folder named `Example_DP4plus_solvent` on the desktop, containing all the files needed to run the example.
+
+![Imagen1](https://github.com/user-attachments/assets/1531a907-efc7-4822-84e6-6b8f8b70738f)
+
