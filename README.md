@@ -23,3 +23,14 @@ To verify the correct operation of the software, it is recommended to run the pr
 
 ![Imagen1](https://github.com/user-attachments/assets/1531a907-efc7-4822-84e6-6b8f8b70738f)
 
+
+### User Guide
+To facilitate the use of **Solvent DP4+** and ensure efficient navigation of its features, a comprehensive User Guide is provided. This guide is available within the repository and can also be accessed directly through the program via the User Guide button. The User Guide contains detailed instructions, technical explanations, and step-by-step tutorials intended to support the correct application of the tool and to maximize its potential. It serves as a key reference for understanding the workflow and for performing accurate solvent-sensitive probabilistic analyses.
+
+### Bugs and Malfunctions
+In case of unexpected behavior or operational issues while using the Solvent DP4+ App, users are encouraged to report the encountered problems in detail. Providing comprehensive information about the malfunction will contribute to the continuous improvement of the software.
+
+For support and bug reporting, please contact the development team via the following email addresses:
+
+* zanardi@inv.rosario-conicet.gov.ar
+* sarotti@iquir-conicet.gov.ar
